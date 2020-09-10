@@ -72,6 +72,13 @@ a:hover {
 
 }
 
+.row
+
+{
+    padding-top: 18px;
+    padding-bottom: 15px;
+}
+
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
